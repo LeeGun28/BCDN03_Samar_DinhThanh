@@ -797,7 +797,7 @@ font-weight: 800;
 
 .blog__footer{
     display: flex;
-    padding: 10px;
+    padding: 15px;
     border-top: 1px solid rgba(0, 0, 0, .05);
     font-size: 14px;
 }
@@ -811,7 +811,7 @@ font-weight: 800;
 }
 
 .blog__footer i{
-    font-size: 24px;
+    font-size: 22px;
     color: #f55f8d;
     vertical-align: sub;
 }
